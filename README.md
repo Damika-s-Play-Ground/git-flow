@@ -10,5 +10,4 @@ MIT License has added with content
 
 v0.1.0
 
-[!Image of Yaktocat]
-https://octodex.github.com/images/yaktocat.png
+![GitHub](/img/git.png)
