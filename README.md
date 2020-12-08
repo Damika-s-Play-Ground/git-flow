@@ -8,6 +8,6 @@ MIT License has added with content
 
 ### Version :chart_with_upwards_trend:
 
-v0.1.0
+v0.2.0
 
 ![GitHub](/img/git.png)
